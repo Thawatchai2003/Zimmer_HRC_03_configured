@@ -54,7 +54,7 @@
        Include
        ===================================================== -->
   <xacro:include filename="$(find ur_description)/urdf/ur_macro.xacro"/>
-  <xacro:include filename="$(find zimmer_hrc03_description)/urdf/zimmer_hrc03.xacro"/>
+  <xacro:include filename="$(find Zimmer_HRC_03)/urdf/zimmer_hrc03.xacro"/>
   <xacro:include filename="$(find ur5e_workcell)/urdf/workcell.urdf"/>
   <xacro:include filename="$(find ur5e_workcell)/urdf/workcell_table.urdf"/>
   <xacro:include filename="$(find ur5e_workcell)/urdf/Position_Point.urdf"/>
